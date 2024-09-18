@@ -4,7 +4,7 @@ Fabian Frost is a Node.js Discord Bot that makes announcements on spontaneous ev
 
 ## Installation
 
-Change directory to project folder in command prompt then type command below:
+After downloading the repo, change directory to project folder in command prompt then type command below:
 ```bash
 npm run start
 ```
@@ -15,6 +15,6 @@ Check `examples` folder
 
 ## Credits
 
-- @GorlikItsMe 
-- @Keaton296
+- [GorlikItsMe](https://github.com/GorlikItsMe) - Owner of base of the project, Nosbot.js
+- [Keaton296](https://github.com/Keaton296) - Creator of Fabian Frost
 
