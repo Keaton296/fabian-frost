@@ -1,13 +1,12 @@
-# @gorlikitsme/nosbot.js
+# fabian-frost
 
-A node.js library for building Nostale Bot using Typescript.
+Fabian Frost is a Node.js Discord Bot that makes announcements on spontaneous events happening on MMO game NosTale.
 
 ## Installation
 
+Change directory to project folder in command prompt then type command below:
 ```bash
-npm install @gorlikitsme/nosbot.js
-
-yarn add @gorlikitsme/nosbot.js
+npm run start
 ```
 
 ## Example Usage
@@ -16,8 +15,6 @@ Check `examples` folder
 
 ## Credits
 
-TODO
+- @GorlikItsMe 
+- @Keaton296
 
-## Disclaimer
-
-bla bla you can get banned
